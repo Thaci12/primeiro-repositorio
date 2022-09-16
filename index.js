@@ -14,6 +14,6 @@ let mensagem = "soulcode bc 25 jfs" // LET SÓ SERVE P CRIAR A VRIAVEL
 
 console.log(mensagem)
 mensagem = "novo mundo"
-console.log(mensagem)
+
 
 
